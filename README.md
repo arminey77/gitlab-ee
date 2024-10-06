@@ -71,3 +71,4 @@ When generating the cracked key pair above, the public key has been written to t
 Assuming your Gitlab username is `${username}` and the repository name is `${repository_name}`, when the repository has successfully built SSG using jekyll, you only need to access the following URL:
 
 [http://127.0.0.1:8000/${username}/${repository_name}/public/](http://127.0.0.1:8000)
+
